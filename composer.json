@@ -1,0 +1,11 @@
+{
+  "name": "spryker-feature/product-based-shop-navigation",
+  "description": "Product Based Shop Navigation [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1",
+    "spryker-feature/navigation": "~2018.11.0"
+  }
+}
