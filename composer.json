@@ -6,6 +6,6 @@
   "minimum-stability": "dev",
   "require": {
     "php": ">=7.1",
-    "spryker-feature/navigation": "~2018.12.0"
+    "spryker-feature/navigation": "~201903.0"
   }
 }
