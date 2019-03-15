@@ -1,6 +1,6 @@
 # Spryker Feature: Product Based Shop Navigation
 
-Categories pages included in navigation
+Category pages are included to navigation
 
 ## Installation
 
